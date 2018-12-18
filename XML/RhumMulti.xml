@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE  classe  SYSTEM "Transat-v2.1.dtd">
+	<classe nom="RhumMulti">
+	  <descriptif> La    catégorie    Rhum    
+Multicoques rassemble tous les bateaux à deux ou trois 
+coques d’une longueur comprise entre 39 et 59 pieds et 
+ne pouvant entrer dans une autre classe de la course. 
+Chez les Rhum Multi, on retrouve essentiellement des 
+amateurs, certains plus que bien éclairés d’ailleurs. En 
+conséquence, on recense une flotte de 21 multicoques 
+pour le moins hétéroclite, avec des bateaux de croisière 
+pure,  équipés  de  couchettes  et  de  tout  le  confort  
+attenant, pesant parfois plus de dix tonnes, soit jusqu’à 
+quatre fois plus qu’un A’Capella par exemple dont trois 
+exemplaires,  sisterships  du  bateau  de  Mike  Birch  (le  
+vainqueur de la première édition de l’épreuve en 1978), 
+sont engagés cette année.
+	  </descriptif>
+	  <voiliers>
+		<voilier>OLMIX</voilier>
+		<voilier>Ecole diagonale pour citoyens du monde</voilier>
+		<voilier>AIR ANTILLES - CASENEUVE MAXI CATAMARAN</voilier>
+		<voilier>PiR2</voilier>
+		<voilier>RAYON VERT</voilier>
+		<voilier>JESS</voilier>
+		<voilier>TEAM VENT DEBOUT</voilier>
+		<voilier>HAPPY</voilier>
+		<voilier>SOLVEO ENERGIES NOUVELLES</voilier>
+		<voilier>NO LIMIT - BMP</voilier>
+		<voilier>ACAPELLA - SOREAL - PROLUDIC</voilier>
+		<voilier>FRIENDS &amp; LOVERS</voilier>
+		<voilier>LILADHOC</voilier>
+		<voilier>RESADIA</voilier>
+		<voilier>ZED7</voilier>
+		<voilier>STEREC AILE BLEUE</voilier>
+		<voilier>BRANEC IV</voilier>
+		<voilier>BO CARRE</voilier>
+		<voilier>GUYADER GASTRONOMIE</voilier>
+		<voilier>GOLD.FR POUR BIONIRIA</voilier>
+		<voilier>CRE ACTUEL</voilier>
+	  </voiliers>		
+	</classe>

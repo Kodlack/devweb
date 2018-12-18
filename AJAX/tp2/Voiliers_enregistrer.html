@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Formulaires HTML</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="style.css" />
+		<script src="scripts/Voiliers_enregistrer.js" type="text/javascript" > </script>
+	<head>
+	
+	<body>
+		<h1>Ajouter un voilier</h1>
+		
+		<form method="post" action="Voiliers_enregistrer.php" id="enregistrement">
+			
+                <legend>Informations générales: </legend>
+				
+					<label for="nom">Nom du voilier: </label>
+						<input type="text" name="nom" id="nom"><br>
+						
+					<label for="classe">Classe: </label>
+						<input type="text" name="classe" id="classe"><br>
+						
+					<label for="construction">Année de construction: </label>
+						<input type="text" name="construction" id="construction"><br>
+					
+					<label for="photo">URL d'une photo: </label>
+						<input type="url" name="photo" id="photo"><br>
+					
+					<label for="architecte">Architecte: </label>
+						<input type="text" name="architecte" id="architecte"><br>
+					
+					<label for="longueur">Longueur du voilier: </label>
+						<input type="text" name="longueur" id="longueur"><br>
+					
+					<label for="nom_skipper">Nom du skipper: </label>
+						<input type="text" name="nom_skipper" id="nom_skipper"><br>
+					
+					<label for="description">Anecdotes sur le skipper: </label>
+						<input type="text" name="description" id="description"><br>
+				
+		   <br />
+		   <br />
+			<input type="button"	id="enregistrer"	value="Enregistrer">
+		</form>
+	</body>
+</html>

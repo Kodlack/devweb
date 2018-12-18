@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="application/xml" href="Transat.xsl"?>
+
+<!DOCTYPE  transat  SYSTEM "Transat.dtd"
+[
+	<!ENTITY nom_transat "Route du Rhum">
+	<!ENTITY repertoire_photos "photos/">
+	<!ENTITY depart "Saint-Malo">
+	<!ENTITY arrivee "Pointe-à-Pitre">
+	<!ENTITY date_depart "4 novembre 2018">	 
+]>
+
+<transat nom="&nom_transat;" logo="&repertoire_photos;logo-rdr.svg" annee="2018">
+  <ville-depart>&depart;</ville-depart>
+  <ville-arrivee>&arrivee;</ville-arrivee>
+  <date-depart>&date_depart;</date-depart>
+  <classes>
+	<classe nom="Ultime">
+		<descriptif>
+		 Longueur supérieure ou égale à 
+60 pieds sans limitation de taille. Ce sont les géants 
+des  mers  !  Les  navires  autorisés  dans  cette  classe  
+doivent mesurer au minimum 60 pieds (soit 18,28m). 
+Désormais,  ces  bateaux  volent  au-dessus  de  l’eau  
+et  les  vitesses  sont  fascinantes.  Lors  du  départ,  
+cette flotte forme un spectacle impressionnant sur 
+le plan d’eau, et peut être facilement vus des côtes 
+bretonnes pour les spectateurs !
+ 				Constitué, à ce jour, d’Actual, Banque Populaire, Macif et Sodebo, le Collectif Ultim est une association d’armateurs engagés de longue date dans la course au large. Il a été créé, en 2013, autour d’un projet : relever de nouveaux défis avec de nouveaux grands multicoques et les partager avec le plus grand nombre. 
+				Réunis autour de valeurs sportives comme l’innovation ou la performance, les membres du Collectif Ultim partagent également, dans leur mode de relation, des valeurs plus génériques comme la solidarité, le partage, la générosité ou l’humilité. 
+Le Collectif a aussi vocation à promouvoir les Ultimes, multicoques qui incarnent partie de l’avenir de la course au large en contribuant, de surcroît, au rayonnement de l’excellence française dans ce domaine. 
+Très proche de l’ensemble des acteurs nautiques français et internationaux, le Collectif Ultim est naturellement tourné vers les classiques de la course au large mais élabore conjointement un programme d’événements permettant aux Ultimes de naviguer sur de nouveaux bassins maritimes ou sur des formats de course inédits. 
+		</descriptif>
+			 
+		<voiliers>
+			<voilier>MACIF</voilier>
+			<voilier>BANQUE POPULAIRE</voilier>
+			<voilier>IDEC SPORT</voilier>
+			<voilier>MAXI EDMOND DE ROTHSCHILD</voilier>
+			<voilier>SODEBO ULTIM'</voilier>
+			<voilier>REMADE - USE IT AGAIN !</voilier>	
+		</voiliers>
+	</classe>
+	
+	<classe nom="Multi50">
+	  <descriptif>
+Multi50 : une classe en effervescence
+La classe Multi50 change. Professionnalisation des équipes, modernité dans la conception des bateaux, 
+la classe a opéré un virage en 2016. Devenue plus attractive pour les skippers et leurs partenaires, 
+la classe Multi50 a fait évoluer sa jauge qui autorise désormais les foils. 
+Sa flotte s’est recentrée sur les bateaux performants tout en conservant des budgets maitrisés : 
+ainsi, six Multi50 sont annoncés sur la Route du Rhum 2018.
+	  </descriptif>
+			 
+	  <voiliers>
+		<voilier>ARKEMA</voilier>
+		<voilier>REAUTE CHOCOLAT</voilier>
+		<voilier>CIELA VILLAGE</voilier>
+		<voilier>LA FRENCH TECH RENNES SAINT MALO</voilier>
+		<voilier>SOLIDAIRES EN PELOTON ARSEP</voilier>
+		<voilier>FENETREA-MIX BUFFET</voilier>						
+	  </voiliers>
+	</classe> 
+	<classe nom="Imoca">
+	  <descriptif>			 
+Depuis 45 ans, les plus grands marins ont écrit les plus belles histoires et aventures humaines, en navigant autour du monde en solitaire, sans escale et sans assistance.
+L’IMOCA (International Monohull Open Class Association) fut créée en 1991 pour mettre en place une structure capable de réglementer les aspects techniques de la course au large en solo ou en double. Dirigée par les skippers et leurs teams, la classe soutient et promeut des courses mythiques telles que le Vendée Globe, La Transat Jacques Vabre et la Barcelona World Race. Aujourd’hui, l’IMOCA est l’une des classes les plus fortes au monde avec plus d’une vingtaine d’équipes actives.
+OSM et l’IMOCA ont lancé conjointement le Championnat du Monde IMOCA Ocean Masters, selon un cycle de 2 années, qui intègre tous les principaux événements actuels de la course au large (Vendée Globe, Barcelona World Race, Route du Rhum, Transat Jacques Vabre...), ainsi  que de nouvelles épreuves créées tout spécialement pour les IMOCA60, comme la New York – Barcelone ou la New York – Vendée (Les Sables d’Olonne).
+En organisant de nouvelles courses dans des régions clés du globe, telles que les USA ou l’Asie, OSM a pour objectif de promouvoir la course au large auprès de nouvelles audiences et de nouveaux sponsors dans le monde entier.
+	  </descriptif>
+			 
+	  <voiliers>
+		<voilier>HUGO BOSS</voilier>
+		<voilier>PRB</voilier>
+		<voilier>SMA</voilier>
+		<voilier>LA FABRIQUE</voilier>
+		<voilier>UCAR - SAINT MICHEL</voilier>
+		<voilier>MAITRE COQ</voilier>
+		<voilier>INITIATIVES - COEUR</voilier>
+		<voilier>MALIZIA 2 - YACHT CLUB DE MONACO</voilier>
+		<voilier>TIME FOR OCEAN</voilier>
+		<voilier>MONIN</voilier>
+		<voilier>LA MIE CALINE ARTIPOLE</voilier>
+		<voilier>NEWREST - ART ET FENETRES</voilier>
+		<voilier>GROUPE APICIL</voilier>
+		<voilier>VERS UN MONDE SANS SIDA</voilier>
+		<voilier>4MYPLANET</voilier>
+		<voilier>CHARAL</voilier>
+		<voilier>PURE - FAMILLE MARY</voilier>
+		<voilier>ARIEL 2</voilier>
+		<voilier>GROUPE SETIN</voilier>
+		<voilier>BUREAU VALLEE 2</voilier>
+      </voiliers>
+	</classe> 
+	<classe nom="Class40">
+	  <descriptif>
+				La classe internationale forte de sa mixité
+				Imaginée en 2004 comme une catégorie facilitant l’accès à la course océanique, la Class40 connaît dès 2006 un engouement exceptionnel, 
+				à peine dix mois après la rédaction de la jauge. A ce jour, ce sont près de 150 voiliers qui sont sortis des chantiers, 
+				avec un panel d’architectes internationaux. Cette classe se fonde sur des règles simples où les évolutions technologiques
+				sont contraintes pour des raisons financières mais où les recherches d’évolution des formes de carène sont libres et donc extrêmement variées.
+	  </descriptif>
+		 
+	  <voiliers>
+		<voilier>VEEDOL - AIC</voilier>
+		<voilier>CARAC</voilier>
+		<voilier>LEYTON</voilier>
+		<voilier>LAMOTTE - MODULE CREATION</voilier>
+		<voilier>AINA ENFANCE  AVENIR</voilier>
+		<voilier>NARCOS : MEXICO</voilier>
+		<voilier>IMERYS CLEAN ENERGY</voilier>
+		<voilier>MADE IN MIDI</voilier>
+		<voilier>CAMPINGS TOHAPI</voilier>
+		<voilier>V AND B</voilier>
+		<voilier>CORUM</voilier>
+		<voilier>CUSTOPOL</voilier>
+		<voilier>TIBCO</voilier>
+		<voilier>AUDI SAINT MALO - ESPOIR POUR UN RHUM</voilier>
+		<voilier>VOLVO</voilier>
+		<voilier>CHOCOLATS PARIES - CORIOLIS COMPOSITES</voilier>
+		<voilier>BERTRAND-DELESNE FR</voilier>
+		<voilier>REGION NORMANDIE - LMAX EXCHANGE</voilier>
+		<voilier>CAMPAGNE DE FRANCE</voilier>
+		<voilier>CONCISE 8</voilier>
+		<voilier>DRAGON (Vintage)</voilier>
+		<voilier>SERVICE CIVIQUE</voilier>
+		<voilier>TERANGA</voilier>
+		<voilier>EDENRED</voilier>
+		<voilier>COLOMBRE XL</voilier>
+		<voilier>PEP GWADLOUP</voilier>
+		<voilier>MA CHANCE MOI AUSSI</voilier>
+		<voilier>YODA</voilier>
+		<voilier>POWER OF ONE</voilier>
+		<voilier>BEIJAFLORE</voilier>
+		<voilier>REVE DE LARGE</voilier>
+		<voilier>LOOSE FISH</voilier>
+		<voilier>E. LECLERC - VILLE LA GRAND (Vintage)</voilier>
+		<voilier>ISKAREEN</voilier>
+		<voilier>KLAXOON</voilier>
+		<voilier>OBPORTUS IV - GRAS SAVOYE</voilier>
+		<voilier>MANORGA</voilier>
+		<voilier>GRIZZLY BARBER SHOP (Vintage)</voilier>
+		<voilier>FLEURY MICHON BIO</voilier>
+		<voilier>TALANTA</voilier>
+		<voilier>KERSIA - LE GUEVEL - SPIRIT OF ST MALO (Vintage)</voilier>
+		<voilier>UP - SAIL  CONNECT (Vintage)</voilier>
+		<voilier>SAINT CAST LE GUILDO TERRE EXOTIQUE (Vintage)</voilier>
+		<voilier>DESTINATION EVIAN (Vintage)</voilier>
+		<voilier>KIHO</voilier>
+		<voilier>ENEL GREEN POWER</voilier>
+		<voilier>BIJOUTERIES LASSORT - TONTON LOUIS (Vintage)</voilier>
+		<voilier>FONDATION DIGESTSCIENCE</voilier>
+		<voilier>EQUIPE VOILE PARKINSON</voilier>
+		<voilier>AZEO - ON EST LARGE</voilier>
+		<voilier>SERENIS CONSULTING</voilier>
+		<voilier>MARIE-GALANTE APRIL (Vintage)</voilier>
+		<voilier>ESPRIT SCOUT</voilier>			
+	  </voiliers>
+	</classe>
+	<classe nom="RhumMulti">
+	  <descriptif> La    catégorie    Rhum    
+Multicoques rassemble tous les bateaux à deux ou trois 
+coques d’une longueur comprise entre 39 et 59 pieds et 
+ne pouvant entrer dans une autre classe de la course. 
+Chez les Rhum Multi, on retrouve essentiellement des 
+amateurs, certains plus que bien éclairés d’ailleurs. En 
+conséquence, on recense une flotte de 21 multicoques 
+pour le moins hétéroclite, avec des bateaux de croisière 
+pure,  équipés  de  couchettes  et  de  tout  le  confort  
+attenant, pesant parfois plus de dix tonnes, soit jusqu’à 
+quatre fois plus qu’un A’Capella par exemple dont trois 
+exemplaires,  sisterships  du  bateau  de  Mike  Birch  (le  
+vainqueur de la première édition de l’épreuve en 1978), 
+sont engagés cette année.
+	  </descriptif>
+	  <voiliers>
+		<voilier>OLMIX</voilier>
+		<voilier>Ecole diagonale pour citoyens du monde</voilier>
+		<voilier>AIR ANTILLES - CASENEUVE MAXI CATAMARAN</voilier>
+		<voilier>PiR2</voilier>
+		<voilier>RAYON VERT</voilier>
+		<voilier>JESS</voilier>
+		<voilier>TEAM VENT DEBOUT</voilier>
+		<voilier>HAPPY</voilier>
+		<voilier>SOLVEO ENERGIES NOUVELLES</voilier>
+		<voilier>NO LIMIT - BMP</voilier>
+		<voilier>ACAPELLA - SOREAL - PROLUDIC</voilier>
+		<voilier>FRIENDS &amp; LOVERS</voilier>
+		<voilier>LILADHOC</voilier>
+		<voilier>RESADIA</voilier>
+		<voilier>ZED7</voilier>
+		<voilier>STEREC AILE BLEUE</voilier>
+		<voilier>BRANEC IV</voilier>
+		<voilier>BO CARRE</voilier>
+		<voilier>GUYADER GASTRONOMIE</voilier>
+		<voilier>GOLD.FR POUR BIONIRIA</voilier>
+		<voilier>CRE ACTUEL</voilier>
+	  </voiliers>		
+	</classe>
+	<classe nom="RhumMono">
+	  <descriptif> La catégorie des Rhum Mono est 
+réservée  aux  monocoques  d’une  longueur  supérieure  ou  
+égale  à  39  pieds  et  ne  pouvant  entrer  dans  aucune  autre  
+classe.  17  solitaires  ont  choisi  de  s’y  engager  avec  pour  
+objectif  d’arriver  de  l’autre  côté  avant  toute  chose.  Chacun  
+de  ces  marins  s’est  préparé  au  mieux,  avec  ses  moyens,  
+pour aller au bout de son rêve, mais il va sans dire qu’avec 
+des  montures  dont  la  taille  varie  de  40  à  60  pieds  et  dont  
+les années de construction s’étalent de 1976 à 2009, tout le 
+monde ne jouera pas le même match.
+	  </descriptif>
+	  <voiliers>
+		<voilier>CAFE JOYEUX</voilier>
+		<voilier>VENTO DI SARDEGNA</voilier>
+		<voilier>CAP AU CAP LOCATION - SOS VILLAGES D'ENFANTS</voilier>
+		<voilier>ALCATRAZIT - FACEOCEAN</voilier>
+		<voilier>LE CHOIX FUNERAIRE</voilier>
+		<voilier>ROTARY / LA MER POUR TOUS</voilier>
+		<voilier>FORMATIVES NETWORK</voilier>
+		<voilier>GHEO</voilier>
+		<voilier>LA VOIX DE L'OCEAN</voilier>
+		<voilier>TRANSPORTS GROUSSARD</voilier>
+		<voilier>SOS PARE-BRISE</voilier>
+		<voilier>ART IMMOBILIER CONSTRUCTION</voilier>
+		<voilier>RHUM SOLIDAIRE CAP HANDI</voilier>
+		<voilier>COMMEUNSEULHOMME</voilier>
+		<voilier>L'ESPACE DU SOUFFLE</voilier>
+		<voilier>C' LA GUADELOUPE</voilier>
+		<voilier>KRITER V SOCOMORE</voilier>
+	  </voiliers>		
+	</classe>
+  </classes>
+</transat>

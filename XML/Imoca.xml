@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<classe nom="Imoca">
+	  <descriptif>			 
+Depuis 45 ans, les plus grands marins ont écrit les plus belles histoires et aventures humaines, en navigant autour du monde en solitaire, sans escale et sans assistance.
+L’IMOCA (International Monohull Open Class Association) fut créée en 1991 pour mettre en place une structure capable de réglementer les aspects techniques de la course au large en solo ou en double. Dirigée par les skippers et leurs teams, la classe soutient et promeut des courses mythiques telles que le Vendée Globe, La Transat Jacques Vabre et la Barcelona World Race. Aujourd’hui, l’IMOCA est l’une des classes les plus fortes au monde avec plus d’une vingtaine d’équipes actives.
+OSM et l’IMOCA ont lancé conjointement le Championnat du Monde IMOCA Ocean Masters, selon un cycle de 2 années, qui intègre tous les principaux événements actuels de la course au large (Vendée Globe, Barcelona World Race, Route du Rhum, Transat Jacques Vabre...), ainsi  que de nouvelles épreuves créées tout spécialement pour les IMOCA60, comme la New York – Barcelone ou la New York – Vendée (Les Sables d’Olonne).
+En organisant de nouvelles courses dans des régions clés du globe, telles que les USA ou l’Asie, OSM a pour objectif de promouvoir la course au large auprès de nouvelles audiences et de nouveaux sponsors dans le monde entier.
+	  </descriptif>
+			 
+	  <voiliers>
+		<voilier>HUGO BOSS</voilier>
+		<voilier>PRB</voilier>
+		<voilier>SMA</voilier>
+		<voilier>LA FABRIQUE</voilier>
+		<voilier>UCAR - SAINT MICHEL</voilier>
+		<voilier>MAITRE COQ</voilier>
+		<voilier>INITIATIVES - COEUR</voilier>
+		<voilier>MALIZIA 2 - YACHT CLUB DE MONACO</voilier>
+		<voilier>TIME FOR OCEAN</voilier>
+		<voilier>MONIN</voilier>
+		<voilier>LA MIE CALINE ARTIPOLE</voilier>
+		<voilier>NEWREST - ART ET FENETRES</voilier>
+		<voilier>GROUPE APICIL</voilier>
+		<voilier>VERS UN MONDE SANS SIDA</voilier>
+		<voilier>4MYPLANET</voilier>
+		<voilier>CHARAL</voilier>
+		<voilier>PURE - FAMILLE MARY</voilier>
+		<voilier>ARIEL 2</voilier>
+		<voilier>GROUPE SETIN</voilier>
+		<voilier>BUREAU VALLEE 2</voilier>
+      </voiliers>
+	</classe> 

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE  classe  SYSTEM "Transat-v2.1.dtd">
+	<classe nom="RhumMono">
+	  <descriptif> La catégorie des Rhum Mono est 
+réservée  aux  monocoques  d’une  longueur  supérieure  ou  
+égale  à  39  pieds  et  ne  pouvant  entrer  dans  aucune  autre  
+classe.  17  solitaires  ont  choisi  de  s’y  engager  avec  pour  
+objectif  d’arriver  de  l’autre  côté  avant  toute  chose.  Chacun  
+de  ces  marins  s’est  préparé  au  mieux,  avec  ses  moyens,  
+pour aller au bout de son rêve, mais il va sans dire qu’avec 
+des  montures  dont  la  taille  varie  de  40  à  60  pieds  et  dont  
+les années de construction s’étalent de 1976 à 2009, tout le 
+monde ne jouera pas le même match.
+	  </descriptif>
+	  <voiliers>
+		<voilier>CAFE JOYEUX</voilier>
+		<voilier>VENTO DI SARDEGNA</voilier>
+		<voilier>CAP AU CAP LOCATION - SOS VILLAGES D'ENFANTS</voilier>
+		<voilier>ALCATRAZIT - FACEOCEAN</voilier>
+		<voilier>LE CHOIX FUNERAIRE</voilier>
+		<voilier>ROTARY / LA MER POUR TOUS</voilier>
+		<voilier>FORMATIVES NETWORK</voilier>
+		<voilier>GHEO</voilier>
+		<voilier>LA VOIX DE L'OCEAN</voilier>
+		<voilier>TRANSPORTS GROUSSARD</voilier>
+		<voilier>SOS PARE-BRISE</voilier>
+		<voilier>ART IMMOBILIER CONSTRUCTION</voilier>
+		<voilier>RHUM SOLIDAIRE CAP HANDI</voilier>
+		<voilier>COMMEUNSEULHOMME</voilier>
+		<voilier>L'ESPACE DU SOUFFLE</voilier>
+		<voilier>C' LA GUADELOUPE</voilier>
+		<voilier>KRITER V SOCOMORE</voilier>
+	  </voiliers>		

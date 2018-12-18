@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+	
+	<!DOCTYPE  classe  SYSTEM "Transat-v2_1.dtd">
+	
+	<classe nom="Class40">
+	  <descriptif>
+				La classe internationale forte de sa mixité
+				Imaginée en 2004 comme une catégorie facilitant l’accès à la course océanique, la Class40 connaît dès 2006 un engouement exceptionnel, 
+				à peine dix mois après la rédaction de la jauge. A ce jour, ce sont près de 150 voiliers qui sont sortis des chantiers, 
+				avec un panel d’architectes internationaux. Cette classe se fonde sur des règles simples où les évolutions technologiques
+				sont contraintes pour des raisons financières mais où les recherches d’évolution des formes de carène sont libres et donc extrêmement variées.
+	  </descriptif>
+		 
+	  <voiliers>
+		<voilier>VEEDOL - AIC</voilier>
+		<voilier>CARAC</voilier>
+		<voilier>LEYTON</voilier>
+		<voilier>LAMOTTE - MODULE CREATION</voilier>
+		<voilier>AINA ENFANCE  AVENIR</voilier>
+		<voilier>NARCOS : MEXICO</voilier>
+		<voilier>IMERYS CLEAN ENERGY</voilier>
+		<voilier>MADE IN MIDI</voilier>
+		<voilier>CAMPINGS TOHAPI</voilier>
+		<voilier>V AND B</voilier>
+		<voilier>CORUM</voilier>
+		<voilier>CUSTOPOL</voilier>
+		<voilier>TIBCO</voilier>
+		<voilier>AUDI SAINT MALO - ESPOIR POUR UN RHUM</voilier>
+		<voilier>VOLVO</voilier>
+		<voilier>CHOCOLATS PARIES - CORIOLIS COMPOSITES</voilier>
+		<voilier>BERTRAND-DELESNE FR</voilier>
+		<voilier>REGION NORMANDIE - LMAX EXCHANGE</voilier>
+		<voilier>CAMPAGNE DE FRANCE</voilier>
+		<voilier>CONCISE 8</voilier>
+		<voilier>DRAGON (Vintage)</voilier>
+		<voilier>SERVICE CIVIQUE</voilier>
+		<voilier>TERANGA</voilier>
+		<voilier>EDENRED</voilier>
+		<voilier>COLOMBRE XL</voilier>
+		<voilier>PEP GWADLOUP</voilier>
+		<voilier>MA CHANCE MOI AUSSI</voilier>
+		<voilier>YODA</voilier>
+		<voilier>POWER OF ONE</voilier>
+		<voilier>BEIJAFLORE</voilier>
+		<voilier>REVE DE LARGE</voilier>
+		<voilier>LOOSE FISH</voilier>
+		<voilier>E. LECLERC - VILLE LA GRAND (Vintage)</voilier>
+		<voilier>ISKAREEN</voilier>
+		<voilier>KLAXOON</voilier>
+		<voilier>OBPORTUS IV - GRAS SAVOYE</voilier>
+		<voilier>MANORGA</voilier>
+		<voilier>GRIZZLY BARBER SHOP (Vintage)</voilier>
+		<voilier>FLEURY MICHON BIO</voilier>
+		<voilier>TALANTA</voilier>
+		<voilier>KERSIA - LE GUEVEL - SPIRIT OF ST MALO (Vintage)</voilier>
+		<voilier>UP - SAIL  CONNECT (Vintage)</voilier>
+		<voilier>SAINT CAST LE GUILDO TERRE EXOTIQUE (Vintage)</voilier>
+		<voilier>DESTINATION EVIAN (Vintage)</voilier>
+		<voilier>KIHO</voilier>
+		<voilier>ENEL GREEN POWER</voilier>
+		<voilier>BIJOUTERIES LASSORT - TONTON LOUIS (Vintage)</voilier>
+		<voilier>FONDATION DIGESTSCIENCE</voilier>
+		<voilier>EQUIPE VOILE PARKINSON</voilier>
+		<voilier>AZEO - ON EST LARGE</voilier>
+		<voilier>SERENIS CONSULTING</voilier>
+		<voilier>MARIE-GALANTE APRIL (Vintage)</voilier>
+		<voilier>ESPRIT SCOUT</voilier>			
+	  </voiliers>
+	</classe>

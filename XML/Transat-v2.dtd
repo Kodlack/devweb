@@ -1,0 +1,22 @@
+<!ELEMENT transat (ville-depart, ville-arrivee, date-depart, classes)>
+	<!ATTLIST transat
+		nom CDATA #REQUIRED
+		logo CDATA #REQUIRED 
+		annee CDATA #REQUIRED
+		xmlns:xi CDATA #REQUIRED
+	>
+
+<!ELEMENT ville-depart (#PCDATA)>
+
+<!ELEMENT ville-arrivee (#PCDATA)>
+
+<!ELEMENT date-depart (#PCDATA)>
+
+<!ELEMENT classes (xi:include, xi:include, xi:include, xi:include, xi:include, xi:include)>
+	
+<!ELEMENT xi:include EMPTY>
+	<!ATTLIST xi:include
+		href CDATA #REQUIRED
+	>
+
+

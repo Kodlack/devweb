@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<classe nom="Multi50">
+	  <descriptif>
+Multi50 : une classe en effervescence
+La classe Multi50 change. Professionnalisation des équipes, modernité dans la conception des bateaux, 
+la classe a opéré un virage en 2016. Devenue plus attractive pour les skippers et leurs partenaires, 
+la classe Multi50 a fait évoluer sa jauge qui autorise désormais les foils. 
+Sa flotte s’est recentrée sur les bateaux performants tout en conservant des budgets maitrisés : 
+ainsi, six Multi50 sont annoncés sur la Route du Rhum 2018.
+	  </descriptif>
+			 
+	  <voiliers>
+		<voilier>ARKEMA</voilier>
+		<voilier>REAUTE CHOCOLAT</voilier>
+		<voilier>CIELA VILLAGE</voilier>
+		<voilier>LA FRENCH TECH RENNES SAINT MALO</voilier>
+		<voilier>SOLIDAIRES EN PELOTON ARSEP</voilier>
+		<voilier>FENETREA-MIX BUFFET</voilier>						
+	  </voiliers>
+	</classe> 

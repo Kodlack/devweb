@@ -1,0 +1,25 @@
+<!ELEMENT transat (ville-depart, ville-arrivee, date-depart, classes)>
+	<!ATTLIST transat
+		nom CDATA #REQUIRED
+		logo CDATA #REQUIRED 
+		annee CDATA #REQUIRED
+	>
+
+<!ELEMENT ville-depart (#PCDATA)>
+
+<!ELEMENT ville-arrivee (#PCDATA)>
+
+<!ELEMENT date-depart (#PCDATA)>
+
+<!ELEMENT classes (classe, classe, classe, classe, classe, classe)>
+
+<!ELEMENT classe (descriptif, voiliers)>
+	<!ATTLIST classe 
+		nom CDATA #REQUIRED
+	>
+
+<!ELEMENT descriptif (#PCDATA)>
+
+<!ELEMENT voiliers (voilier*)>
+
+<!ELEMENT voilier (#PCDATA)>

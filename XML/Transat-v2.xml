@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="application/xml" href="Transat.xsl"?>
+
+<!DOCTYPE  transat  SYSTEM "Transat-v2.dtd"
+[
+	<!ENTITY nom_transat "Route du Rhum">
+	<!ENTITY repertoire_photos "photos/">
+	<!ENTITY depart "Saint-Malo">
+	<!ENTITY arrivee "Pointe-a-Pitre">
+	<!ENTITY date_depart "4 novembre 2018">	 
+]>
+
+<transat nom="&nom_transat;" logo="&repertoire_photos;logo-rdr.svg" annee="2018" 
+		xmlns:xi="http://www.w3.org/2001/XInclude">
+  <ville-depart>&depart;</ville-depart>
+  <ville-arrivee>&arrivee;</ville-arrivee>
+  <date-depart>&date_depart;</date-depart>
+  <classes>
+		<xi:include href="Ultime.xml"/>
+	
+		<xi:include href="Multi50.xml"/>
+	
+		<xi:include href="Imoca.xml"/>
+	
+		<xi:include href="Class40.xml"/>
+	
+		<xi:include href="RhumMulti.xml"/>
+	
+		<xi:include href="RhumMono.xml"/>
+  </classes>
+</transat>

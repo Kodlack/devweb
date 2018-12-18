@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="application/xml" href="Voiliers-v1.xsl"?>
+<voiliers>
+
+	<voilier classe="RhumMono" annee="1997">
+		<nom>Choix Funeraire</nom>
+		<architecte>Inconnu</architecte>
+		<longueur>15m</longueur>
+		<photo adresse="photos/voilierchoix.png"/>
+
+		<skipper>
+			<nom_skipper>Nils Boyer</nom_skipper>
+			<texte><nom_skipper>Nils Boyer</nom_skipper> est un homme pressé.</texte>
+		</skipper>
+	</voilier>
+	<br/>
+	<voilier classe="Class40" annee="2014">
+		<nom>Région Normandie LMAX Exchange</nom>
+		<architecte>Finot-Conq</architecte>
+		<longueur>12m</longueur>
+		<photo adresse="photos/voiliernormandie.png"/>
+
+		<skipper>
+			<nom_skipper>Olivier Cardin</nom_skipper>
+			<texte><nom_skipper>Olivier Cardin</nom_skipper>un skipper d'expérience né à <nomgeo>Caen</nomgeo></texte>
+		</skipper>
+	</voilier>
+	
+<voilier classe="srtujh" annee="10"><nom>dfj</nom><architecte>asj</architecte><longueur>4</longueur><photo adresse=""/><skipper><nom_skipper>FGJ</nom_skipper><description>DFSJHSDTH</description></skipper></voilier></voiliers>

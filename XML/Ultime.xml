@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<classe nom="Ultime">
+		<descriptif>
+		 Longueur supérieure ou égale à 
+60 pieds sans limitation de taille. Ce sont les géants 
+des  mers  !  Les  navires  autorisés  dans  cette  classe  
+doivent mesurer au minimum 60 pieds (soit 18,28m). 
+Désormais,  ces  bateaux  volent  au-dessus  de  l’eau  
+et  les  vitesses  sont  fascinantes.  Lors  du  départ,  
+cette flotte forme un spectacle impressionnant sur 
+le plan d’eau, et peut être facilement vus des côtes 
+bretonnes pour les spectateurs !
+ 				Constitué, à ce jour, d’Actual, Banque Populaire, Macif et Sodebo, le Collectif Ultim est une association d’armateurs engagés de longue date dans la course au large. Il a été créé, en 2013, autour d’un projet : relever de nouveaux défis avec de nouveaux grands multicoques et les partager avec le plus grand nombre. 
+				Réunis autour de valeurs sportives comme l’innovation ou la performance, les membres du Collectif Ultim partagent également, dans leur mode de relation, des valeurs plus génériques comme la solidarité, le partage, la générosité ou l’humilité. 
+Le Collectif a aussi vocation à promouvoir les Ultimes, multicoques qui incarnent partie de l’avenir de la course au large en contribuant, de surcroît, au rayonnement de l’excellence française dans ce domaine. 
+Très proche de l’ensemble des acteurs nautiques français et internationaux, le Collectif Ultim est naturellement tourné vers les classiques de la course au large mais élabore conjointement un programme d’événements permettant aux Ultimes de naviguer sur de nouveaux bassins maritimes ou sur des formats de course inédits. 
+		</descriptif>
+			 
+		<voiliers>
+			<voilier>MACIF</voilier>
+			<voilier>BANQUE POPULAIRE</voilier>
+			<voilier>IDEC SPORT</voilier>
+			<voilier>MAXI EDMOND DE ROTHSCHILD</voilier>
+			<voilier>SODEBO ULTIM'</voilier>
+			<voilier>REMADE - USE IT AGAIN !</voilier>	
+		</voiliers>
+	</classe>

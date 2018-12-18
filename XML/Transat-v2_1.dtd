@@ -1,0 +1,10 @@
+<!ELEMENT classe (descriptif, voiliers)>
+	<!ATTLIST classe 
+		nom CDATA #REQUIRED
+	>
+
+<!ELEMENT descriptif (#PCDATA)>
+
+<!ELEMENT voiliers (voilier*)>
+
+<!ELEMENT voilier (#PCDATA)>
